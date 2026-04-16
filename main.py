@@ -17,7 +17,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ========== CONFIG ==========
-API_TOKEN = "6808049831:AAGmcwzaEtfpVAo-ITl3JqRXetVHTug7fYo"
+API_TOKEN = "8621819697:AAGvwHxnjNWZu9EOuYi3Le6jTuCqJbSAW60"
 # Админы, оставьте пустым
 _ADMIN_IDS_ENV = os.getenv("ADMIN_IDS", "").strip()
 if _ADMIN_IDS_ENV:
